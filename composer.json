@@ -1,0 +1,11 @@
+{
+  "require": {
+      "videlalvaro/php-amqplib": "2.2.*",
+      "symfony/console": "2.4.*"
+  },
+  "autoload": {
+		"classmap": [
+			"app/SergiuParaschiv"
+		]
+	}
+}
